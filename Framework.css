@@ -141,9 +141,63 @@ margin-left: 10px;
 }
 
 
+#panelTabs{
+
+display: inline-flex;
+float: right;
+position: relative;
+overflow: hidden;
+  
+
+}
+
+#panelTabs li{
+
+list-style: none;
+margin-left: 5px;
+padding: 5px;
+
+}
+
+
+#feedPanels{
+
+margin-top: 35px;
+
+
+}
+
+
 .youtubeVid{
 
-width: 299px;
+float: left;
+padding: 0;
+margin: 10px 20px 10px 10px;
+display: block;
+
+
+}
+
+
+
+#sonicContent{
+
+width: 300px;
+height: 120px;
+margin-top: 30px;
+overflow: hidden;
+text-align: center;
+background: url(https://img.youtube.com/vi/dvLxz2nPL_c/hqdefault.jpg);
+
+
+}
+
+#mankindContent{
+
+width: 300px;
+height: 120px;
+overflow: hidden;
+background: url(https://img.youtube.com/vi/RQkwU62rmeE/hqdefault.jpg);
 
 
 }
