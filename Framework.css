@@ -92,12 +92,12 @@ margin-bottom: 15px;
   background-size:cover;
   }
 .item-2{
-  background:url();
-   background-size:cover;
+  background:url('Virtua_Fighter_Ultimate_Showdown.jpg');
+  background-size:cover;
 }
 .item-3{
-  background:url();
-   background-size:cover;
+  background:url('Demon_slayer.png');
+  background-size:cover;
 }
 
 *:target ~ .item-1 {
@@ -134,7 +134,6 @@ margin: 15px;
 #segaNews{
 
 margin: 40px;
-
 margin-left: 10px;
 
 
@@ -194,10 +193,87 @@ background: url(https://img.youtube.com/vi/dvLxz2nPL_c/hqdefault.jpg);
 
 #mankindContent{
 
-width: 300px;
+width: 275px;
 height: 120px;
 overflow: hidden;
 background: url(https://img.youtube.com/vi/RQkwU62rmeE/hqdefault.jpg);
+
+
+}
+
+#jsrfContent{
+
+width: 275px;
+height: 120px;
+overflow: hidden;
+background: url('Super_Monkey_Ball_Beat.jpg');
+
+
+}
+
+#segaSodaContent{
+
+width: 275px;
+height: 120px;
+overflow: hidden;
+background: url('Sonic_Soda_Machine.jpg');
+
+
+}
+
+
+#virtuaContent{
+
+width: 275px;
+height: 120px;
+overflow: hidden;
+background: url('Virtua_Fighter.jpg');
+
+}
+
+#monkeyBallContent{
+
+width: 300px;
+height: 120px;
+overflow: hidden;
+background: url('Super_Monkey_Ball_Meet_The_Gang.jpg');
+
+}
+
+#judgementContent{
+
+width: 275px;
+height: 120px;
+overflow: hidden;
+background: url('Lost_Judgement.jpg');
+
+}
+
+#shinMegamiTensei{
+
+width: 275px;
+height:120px;
+overflow: hidden;
+background: url('Shin_Megami_Tensei.jpg');
+
+}
+
+#sonicSuit{
+
+width: 300px;
+height:120px;
+overflow: hidden;
+background: url('Sonic_Suit.jpg');
+
+
+}
+
+#footer{
+
+border-top: none;
+margin-top: 20px;
+padding: 0;
+max-width: 960px;
 
 
 }
