@@ -281,18 +281,85 @@ max-width: 960px;
 #social{
 
 list-style-type: none;
-padding: 0;
+padding-left: 85px;
 margin-top: 50px;
 margin-bottom: 0;
 display: inline-block;
-position: absolute;
- left: 30%;
-margin-right: -50%;
+left: 30%;
+margin-right: -30%;
 
 }
 
+#social,
 li{
 
 display: inline-block;
+
+}
+
+#footer-mid{
+
+margin: 0 auto 0 auto;
+background-color: white;
+padding-left: 21px;
+padding-top: 20px;
+padding-bottom: 20px;
+border: 1px solid #ccc;
+min-height:165px;
+
+}
+
+#segaLogo{
+
+float: left;
+width: 160px;
+
+
+}
+
+#games{
+
+float: left;
+width: 160px;
+
+
+}
+
+#brands{
+
+float: left;
+width: 160px;
+
+}
+
+#segaStores{
+
+float: left;
+width: 160px;
+
+}
+
+#company{
+
+float: left;
+width: 160px;
+
+
+}
+
+
+#footer-mid-bottom{
+
+padding: 2px 20px;
+text-align: center;
+font-size: 19px;
+margin-bottom: 19px;
+min-height: 43px;
+border-bottom: 1px solid #ccc;
+border-left: 1px solid #ccc;
+border-right: 1px solid #ccc;
+background: white;
+box-shadow: none;
+
 
 }
