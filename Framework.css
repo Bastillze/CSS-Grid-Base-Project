@@ -1,3 +1,15 @@
+
+body{
+
+background-image:url('Sonic_Background.png');
+
+
+
+}
+
+
+
+
 #segaNavigation{
 
 display: inline-block;
@@ -307,6 +319,7 @@ padding-bottom: 20px;
 border: 1px solid #ccc;
 min-height:165px;
 
+
 }
 
 #segaLogo{
@@ -335,14 +348,14 @@ width: 160px;
 #segaStores{
 
 float: left;
-width: 160px;
+width: 170px;
 
 }
 
 #company{
 
 float: left;
-width: 160px;
+width: 175px;
 
 
 }
@@ -353,6 +366,7 @@ width: 160px;
 padding: 2px 20px;
 text-align: center;
 font-size: 19px;
+margin-top: 20px;
 margin-bottom: 19px;
 min-height: 43px;
 border-bottom: 1px solid #ccc;
@@ -360,6 +374,45 @@ border-left: 1px solid #ccc;
 border-right: 1px solid #ccc;
 background: white;
 box-shadow: none;
+
+
+}
+
+#leaflet{
+
+display: inline;
+font-size: 11px;
+margin: 0 auto;
+padding: 10px;
+border-left: 1px solid #ccc ;
+border-right: 1px solid #ccc;
+
+
+}
+
+
+#copyright{
+
+float: left;
+margin-right: 80px;
+
+}
+
+#copyrightText{
+float: left;
+width: 540px;
+font-size: 0.588em;
+color: #999;
+
+
+
+}
+
+#copyrightPrivacy{
+
+width: 65px;
+height: 88px;
+float: right;
 
 
 }
